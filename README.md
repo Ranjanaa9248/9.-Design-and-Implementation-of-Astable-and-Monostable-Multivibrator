@@ -77,15 +77,14 @@ RA=7.2KΩ, RB= 3.6KΩ
 
   **CIRCUIT DIAGRAM**
   
-<img width="1600" height="1484" alt="WhatsApp Image 2026-09-15 at 10 15 27 AM" src="https://github.com/user-attachments/assets/932d8ac7-bdec-4197-be56-538a15b84a20" />
+  <img width="1600" height="1003" alt="WhatsApp Image 2026-09-15 at 10 25 20 AM" src="https://github.com/user-attachments/assets/d3a03ed9-50ee-4dbe-9f58-9f45ae1097b5" />
 
-
-
-<img width="1410" height="1599" alt="WhatsApp Image 2026-09-15 at 10 15 44 AM" src="https://github.com/user-attachments/assets/78b1b571-b744-414d-8264-56bc5a8d7d36" />
+<img width="1600" height="858" alt="WhatsApp Image 2026-09-15 at 10 25 42 AM" src="https://github.com/user-attachments/assets/20761075-7fec-4a05-a767-4aefc37f0221" />
 
   **MODEL GRAPH:**
-<img width="1079" height="1599" alt="WhatsApp Image 2026-09-15 at 10 16 43 AM" src="https://github.com/user-attachments/assets/c2a548ff-d64f-4e78-bec0-40bc209b72c2" />
-<img width="1088" height="1599" alt="WhatsApp Image 2026-09-15 at 10 17 07 AM" src="https://github.com/user-attachments/assets/d5f0edc0-b93c-45d9-a396-1cea8c1c2d17" />
+<img width="1144" height="1599" alt="WhatsApp Image 2026-09-15 at 10 26 02 AM" src="https://github.com/user-attachments/assets/16ad3107-8f26-429e-b28d-3b7c022e75a1" />
+
+<img width="1107" height="1600" alt="WhatsApp Image 2026-09-15 at 10 26 24 AM" src="https://github.com/user-attachments/assets/cc99d626-b565-4b0d-85be-3fda761bc7f2" />
 
 
   **TABULATION:**
